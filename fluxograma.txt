@@ -1,0 +1,37 @@
+A) Olá, este é um serviço automatizado para detectar se você apresenta os sintomas da COVID19 para te indicar o local mais próximo para você procurar o tratamento caso precise. Responda somente usando números. Pressione 1 para começar.
+
+
+B) Você está com febre acima de 37,8?
+
+1) Sim
+2) Não
+
+C) Apresenta PELO MENOS UM dos sintomas citados abaixo?
+
+Tosse
+Dor de garganta
+Dificuldade para respirar
+
+1) Sim
+2) Não
+
+D) Qual a idade da pessoa com os sintomas?
+
+1) Menos que 5 anos
+2) entre 5 e 59 anos
+3) acima de 59 anos
+
+E) apresenta PELO MENOS UM dos sintomas citados?
+
+Sensação de desmaio
+Cansaço muito forte
+dificuldade para respirar ou falta de ar em repouso ou ao fazer pequenos esforços
+
+1) Sim
+2) Não
+
+F) compartilhe conosco a sua localização atual.
+
+
+G) Analise da localização e encaminhamento para o centro de recepção de doentes corona mais próximo
+

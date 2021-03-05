@@ -1,0 +1,30 @@
+{
+  "name": "saude-2020-avanca-nortao",
+  "version": "1.0.0",
+  "description": ">Criamos uma aplicação web para aplicativos de mensagens (a princípio WhatsApp) que usa um bot de respostas automáticas para as pessoas que estejam com casos suspeitos (sintomas graves) da COVID19 possam ser encaminhadas para o centros de receptação de pacientes com base em analise de leitos disponíveis e distancia mínima de trajeto.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node remove-file.js && nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackingrio/saude-2020-avanca-nortao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackingrio/saude-2020-avanca-nortao/issues"
+  },
+  "homepage": "https://github.com/hackingrio/saude-2020-avanca-nortao#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "sulla": "^2.3.14",
+    "uuidv4": "^6.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
