@@ -3,6 +3,8 @@
 # Chatbot Covid - 2020
 ### Avança Nortão / Saúde
 
+#(link da noticia no G1)[https://g1.globo.com/mt/mato-grosso/noticia/2020/05/28/assistente-virtual-desenvolvida-por-alunos-e-professores-de-mt-indica-quadro-de-paciente-e-leitos-disponiveis-mais-proximos.ghtml]
+
 #### Apresentação 
 
 Criamos uma aplicação web para aplicativos de mensagens (a princípio WhatsApp) que usa um bot de respostas automáticas para as pessoas que estejam com casos suspeitos (sintomas graves) da COVID19 possam ser encaminhadas para o centros de receptação de pacientes com base em analise de leitos disponíveis e distancia mínima de trajeto.
